@@ -3,7 +3,7 @@ Repo for the Module 1 Challenge
 
 ## Description
 
-The purpose of this project was to edit a codebase so that it followed accessibility standards. In turn, this optimizes the website for search engines. To do this, semantic HTML elements were added to replace the generic "<div></div>" elements. By creating a logical structure within the codebase, it is immediately more readable and accessible, not only to fellow developers, but also within the codebase itself. By exchanging "<div></div>" elements with more consise semantic elements, the CSS sheet can be more succinct by calling on more specific elements within the codebase. To futher increase accessibility, image alt tags were created as image descriptors within the codebase. Through this project, I was able to learn to learn more about the links between the CSS sheet and HTML index and was able to practice debugging after adding semantic HTML elements and condensing the CSS sheet. 
+The purpose of this project was to edit a codebase so that it followed accessibility standards. In turn, this optimizes the website for search engines. To do this,distinct semantic HTML elements were added to replace the generic semantic elements. By creating a logical structure within the codebase, it is immediately more readable and accessible, not only to fellow developers, but also within the codebase itself. By exchanging general semantic elements with more consise semantic elements, the CSS sheet can be more succinct by calling on more specific elements within the codebase. To futher increase accessibility, image alt tags were created as image descriptors within the codebase. Through this project, I was able to learn to learn more about the links between the CSS sheet and HTML index and was able to practice debugging after adding semantic HTML elements and condensing the CSS sheet. 
 
 <!-- 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
@@ -15,40 +15,72 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [Tests](#tests)
+
+<!-- If your README is long, add a table of contents to make it easy for users to find what they need. -->
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+There is no installation required for this project. Simply follow the [index.html](#/Users/abbeydoyle/bootcamp/module-one-challenge/index.html) link and open in your preffered browser to be redirected to the completed project website.
+
+<!-- What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. -->
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+There are five main sections of this repository:
+
+- [Assets folder](/Users/abbeydoyle/bootcamp/module-one-challenge/assets) - contains all [webpage images](/Users/abbeydoyle/bootcamp/module-one-challenge/assets/images) and the CSS folder 
+- [CSS folder](/Users/abbeydoyle/bootcamp/module-one-challenge/assets/css) - contains the [style.css](/Users/abbeydoyle/bootcamp/module-one-challenge/assets/css/style.css) page that encodes all CSS style elements
+- [License](/Users/abbeydoyle/bootcamp/module-one-challenge/LICENSE) - contains the webpage license 
+- [README](/Users/abbeydoyle/bootcamp/module-one-challenge/README.md) - this file containing an executive overview of the project
+- [HTML](/Users/abbeydoyle/bootcamp/module-one-challenge/index.html) - this contains the entirety of the HTML code for this project and can be used to be directed to the webpage
+
+<!-- Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/screenshot.png) -->
 
 ## Credits
 
-My collaborator on this challenge was:
-
-Colin Marshall: 
+My collaborator on this challenge was Colin Marshall: 
 
 I received advice on this challenge from my tutor, Rene Trevino.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
+
+Copyright (c) 2022 abbeydoyle
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<!-- The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/). -->
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+<!-- 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections. -->
 
 ## Badges
 
