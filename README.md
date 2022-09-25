@@ -40,6 +40,12 @@ There are five main sections of this repository:
 - [README](/Users/abbeydoyle/bootcamp/module-one-challenge/README.md) - this file containing an executive overview of the project
 - [HTML](/Users/abbeydoyle/bootcamp/module-one-challenge/index.html) - this contains the entirety of the HTML code for this project and can be used to be directed to the webpage
 
+![this image depicts the webpage](assets/images/module-one-challenge-page-one.png)
+
+![this image depicts the webpage](assets/images/module-one-challenge-page-two.png)
+
+![this image depicts the webpage](assets/images/module-one-challenge-page-three.png)
+
 <!-- Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
@@ -47,8 +53,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](assets/images/screenshot.png) -->
 
 ## Credits
-
-My collaborator on this challenge was Colin Marshall: 
 
 I received advice on this challenge from my tutor, Rene Trevino.
 
