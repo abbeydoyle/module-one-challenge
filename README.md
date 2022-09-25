@@ -52,18 +52,21 @@ The last section of a high-quality README file is the license. This lets other d
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+![alttext](https://img.shields.io/github/license/abbeydoyle/module-one-challenge?style=plastic)
 
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
-## Features
+![alttext](https://img.shields.io/maintenance/yes/2022?style=plastic)
 
-If your project has a lot of features, list them here.
+![alttext](https://img.shields.io/github/commit-status/abbeydoyle/module-one-challenge/main/b47d4a7457cf5e66ced4bdac829275209b3dc49c?style=plastic)
 
-## How to Contribute
+![alttext](https://img.shields.io/github/commits-since/abbeydoyle/module-one-challenge/b47d4a7457cf5e66ced4bdac829275209b3dc49c?style=plastic)
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+<!-- ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath) -->
+
+<!-- Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time. -->
+
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Click the inline banner categories to be immediately directed to the corresponding webpage sections.
