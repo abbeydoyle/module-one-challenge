@@ -26,7 +26,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-There is no installation required for this project. Simply follow the [index.html](#/Users/abbeydoyle/bootcamp/module-one-challenge/index.html) link and open in your preffered browser to be redirected to the completed project website.
+There is no installation required for this project. Simply follow the [Horiseon](https://abbeydoyle.github.io/module-one-challenge/#online-reputation-management) link and open in your preffered browser to be redirected to the completed project website.
 
 <!-- What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. -->
 
@@ -34,17 +34,14 @@ There is no installation required for this project. Simply follow the [index.htm
 
 There are five main sections of this repository:
 
-- [Assets folder](/Users/abbeydoyle/bootcamp/module-one-challenge/assets) - contains all [webpage images](/Users/abbeydoyle/bootcamp/module-one-challenge/assets/images) and the CSS folder 
-- [CSS folder](/Users/abbeydoyle/bootcamp/module-one-challenge/assets/css) - contains the [style.css](/Users/abbeydoyle/bootcamp/module-one-challenge/assets/css/style.css) page that encodes all CSS style elements
-- [License](/Users/abbeydoyle/bootcamp/module-one-challenge/LICENSE) - contains the webpage license 
-- [README](/Users/abbeydoyle/bootcamp/module-one-challenge/README.md) - this file containing an executive overview of the project
-- [HTML](/Users/abbeydoyle/bootcamp/module-one-challenge/index.html) - this contains the entirety of the HTML code for this project and can be used to be directed to the webpage
+- [Assets folder](https://github.com/abbeydoyle/module-one-challenge/tree/main/assets) - contains all [webpage images](https://github.com/abbeydoyle/module-one-challenge/tree/main/assets/images) and the CSS folder 
+- [CSS folder](https://github.com/abbeydoyle/module-one-challenge/tree/main/assets/css) - contains the [style.css](https://github.com/abbeydoyle/module-one-challenge/blob/main/assets/css/style.css) page that encodes all CSS style elements
+- [License](https://github.com/abbeydoyle/module-one-challenge/blob/main/LICENSE) - contains the webpage license 
+- [README](https://github.com/abbeydoyle/module-one-challenge/blob/main/README.md) - this file containing an executive overview of the project
+- [HTML](https://github.com/abbeydoyle/module-one-challenge/blob/main/index.html) - this contains the entirety of the HTML code for this project and can be used to be directed to the webpage
 
-![this image depicts the webpage](assets/images/module-one-challenge-page-one.png)
+![this image depicts the deployed webpage](/assets/images/deployed-page.png)
 
-![this image depicts the webpage](assets/images/module-one-challenge-page-two.png)
-
-![this image depicts the webpage](assets/images/module-one-challenge-page-three.png)
 
 <!-- Provide instructions and examples for use. Include screenshots as needed.
 
@@ -88,14 +85,14 @@ SOFTWARE.
 
 ## Badges
 
-![alttext](https://img.shields.io/github/license/abbeydoyle/module-one-challenge?style=plastic)
+![MIT License Badge](https://img.shields.io/github/license/abbeydoyle/module-one-challenge?style=plastic)
 
+![Maintenance Status Badge](https://img.shields.io/maintenance/yes/2022?style=plastic)
 
-![alttext](https://img.shields.io/maintenance/yes/2022?style=plastic)
+![Branch Status](https://img.shields.io/github/commit-status/abbeydoyle/module-one-challenge/main/b47d4a7457cf5e66ced4bdac829275209b3dc49c?style=plastic)
 
-![alttext](https://img.shields.io/github/commit-status/abbeydoyle/module-one-challenge/main/b47d4a7457cf5e66ced4bdac829275209b3dc49c?style=plastic)
-
-![alttext](https://img.shields.io/github/commits-since/abbeydoyle/module-one-challenge/b47d4a7457cf5e66ced4bdac829275209b3dc49c?style=plastic)
+![Commit Counter Badge](https://img.shields.io/github/commits-since/abbeydoyle/module-one-challenge/b47d4a7457cf5e66ced4bdac829275209b3dc49c?style=plastic)
+<!-- I need to learn how to rename commit version -->
 
 
 <!-- ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath) -->
