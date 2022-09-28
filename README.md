@@ -26,7 +26,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-There is no installation required for this project. Simply follow the [Horiseon](https://abbeydoyle.github.io/module-one-challenge/#online-reputation-management) link and open in your preffered browser to be redirected to the completed project website.
+There is no installation required for this project. Simply follow the [Horiseon](https://abbeydoyle.github.io/module-one-challenge/) link and open in your preffered browser to be redirected to the completed project website.
 
 <!-- What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. -->
 
